@@ -3,6 +3,10 @@
 
 ## Write a short comment describing this function
 
+###set the value of the matrix
+###get the value of the matrix
+###set the value of the invert-matrix
+###get the value of the invert-matrix
 makeCacheMatrix <- function(x = matrix()) {
  m <- NULL
         set <- function(y) {
